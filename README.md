@@ -1,4 +1,4 @@
-# travel
+# travel-clone
 
 > A Vue.js project
 
